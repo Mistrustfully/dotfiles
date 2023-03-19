@@ -8,6 +8,7 @@
 !/neofetch
 !/kitty
 !/nvim
+!/nvim/lua/custom
 !/mako.conf
 
 !/wallpapers
@@ -16,3 +17,4 @@
 !/hyfetch.json
 !/README.md
 !/LICENSE
+
