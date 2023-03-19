@@ -1,0 +1,18 @@
+# Exclude everything and add everything manually so I don't accidently add a 
+# useless file to the dotfiles
+
+/*
+
+!/fish
+!/hypr
+!/neofetch
+!/kitty
+!/nvim
+!/mako.conf
+
+!/wallpapers
+!/.gitignore
+!/set-wallpaper.sh
+!/hyfetch.json
+!/README.md
+!/LICENSE
